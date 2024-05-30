@@ -1,1 +1,1 @@
-Sitemap: https://french.dataidea.org/dataidea-french/sitemap.xml
+Sitemap: https://french.dataidea.org/sitemap.xml
