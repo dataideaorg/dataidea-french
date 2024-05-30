@@ -10,7 +10,7 @@ website:
   repo-actions: [issue]
   back-to-top-navigation: true
   reader-mode: true
-  site-url: "https://french.dataidea.org/dataidea-french"
+  site-url: "https://french.dataidea.org/"
   description: "Learn Programming For Data Science"
   repo-branch: main
   repo-url: "https://github.com/dataidea/dataidea-french"
@@ -26,16 +26,22 @@ website:
             url: "https://dataidea.org/privacy_policy.html"
           - text: Terms of Service
             url: "https://dataidea.org/terms_of_service.html"
+      - text: Subjects
+        menu:
+          - text: Data Science
+            url: "https://science.dataidea.org/"
+          - text: Web Development
+            url: "https://web.dataidea.org/"
       - text: Resources
         menu:
-          - text: Courses
-            url: "https://courses.dataidea.org/"
           - text: Blog
             url: "https://blog.dataidea.org"
           - text: Forum
             url: "https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi"
           - text: Football
             url: "https://football.dataidea.org"
+          - text: Movies
+            url: "https://movies.dataidea.org"
       - text: Contact
         href: "https://www.dataidea.org/#contact"
       - icon: twitter
