@@ -17,7 +17,7 @@ website:
   navbar:
     right:
       - text: Home
-        href: "https://www.dataidea.org/"
+        href: "https://french.dataidea.org/"
       - text: About
         menu:
           - text: About Us
