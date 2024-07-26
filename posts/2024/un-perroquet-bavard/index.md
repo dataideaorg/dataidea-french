@@ -55,7 +55,6 @@ Le perroquet réplique : « Je suis un perroquet, pas un calendrier ! »
 
 **J'espère que cette petite histoire vous a fait sourire et vous a donné envie de continuer à apprendre le français. À bientôt pour une nouvelle histoire !**
 
-
 <script src="https://utteranc.es/client.js"
         repo="dataideaorg/dataidea-french"
         issue-term="pathname"
@@ -63,7 +62,6 @@ Le perroquet réplique : « Je suis un perroquet, pas un calendrier ! »
         crossorigin="anonymous"
         async>
 </script>
-
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8076040302380238"
      crossorigin="anonymous"></script>
